@@ -1,3 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 its better to bring out your work to the world and let it get better for everyones use than keeping it isolated on the local computer
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+On github the repo can be public so other people can change the code
+but if the pull is automatic then the local git will get mixed with other versions and it would be difficult to keep track of users own version
