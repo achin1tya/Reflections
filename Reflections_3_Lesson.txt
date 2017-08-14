@@ -7,3 +7,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 On github the repo can be public so other people can change the code
 but if the pull is automatic then the local git will get mixed with other versions and it would be difficult to keep track of users own version
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a way a cloning on the github servers
