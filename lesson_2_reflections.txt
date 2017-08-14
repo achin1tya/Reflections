@@ -6,3 +6,22 @@ when we initialize a repository there are no commits to it and only the .git fil
 How can you use the staging area to make sure you have one commit per logical change?
 
 in staging area all the changes to all the files are saved as a single commit
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches help us keep the origional version of the game and still experiment with  new features
+
+
+How do the diagrams help you visualize the branch structure?
+
+it helps us see the branches and the current position of the head and if any changes were saved or not
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros merging automatically saves time 
+cons it could lead to un understandable situation
+
+pros manual merging cna help resolve conflicts
+cons study the whole code
